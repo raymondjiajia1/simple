@@ -1,6 +1,6 @@
 server:
   port: 8081
-  context-path: /base-data
+  context-path: /base
   session:
       timeout: 3600 # session time out in seconds
 spring:
