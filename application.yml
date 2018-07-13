@@ -3,6 +3,7 @@ server:
   context-path: /base
   session:
       timeout: 3600 # session time out in seconds
+name: 王渊      
 spring:
     freemarker:
          content-type: text/html
