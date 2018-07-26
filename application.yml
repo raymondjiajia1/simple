@@ -1,3 +1,5 @@
+#用户模块
+platId: 3
 spring:
     datasource:
         name: orcl
