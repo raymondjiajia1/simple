@@ -1,3 +1,4 @@
+platId: 3
 spring:
     datasource:
         name: orcl
